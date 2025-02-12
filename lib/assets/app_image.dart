@@ -1,0 +1,35 @@
+class AppImage {
+  static const String logo = 'assets/images/logo.png';
+  static const String back = 'assets/images/back.png';
+  static const String setting = 'assets/images/setting.png';
+  static const String notification = 'assets/svgs/notify.svg';
+  static const String prop = 'assets/svgs/prop.svg';
+  static const String profileedit = 'assets/images/profile-edit.png';
+  static const String logout = 'assets/images/logout.png';
+  static const String payred = 'assets/images/payred.png';
+  static const String payment = 'assets/images/payment.png';
+  static const String faq = 'assets/images/faq.png';
+  static const String about = 'assets/images/about.png';
+  static const String sms = 'assets/svgs/sms.svg';
+  static const String ground = 'assets/svgs/ground.svg';
+  static const String profile = 'assets/svgs/profile.png';
+  static const String starfilled = 'assets/svgs/star-filled.svg';
+  static const String allfriend = 'assets/svgs/allfriend.svg';
+  static const String filter = 'assets/svgs/filter.svg';
+  static const String master = 'assets/svgs/master.svg';
+  static const String uber = 'assets/svgs/uber.svg';
+  static const String netflix = 'assets/svgs/netflix.svg';
+  static const String chart = 'assets/svgs/chart.svg';
+  static const String send = 'assets/svgs/send.svg';
+  static const String menu = 'assets/svgs/menu.svg';
+  static const String home = 'assets/svgs/home.svg';
+  static const String tick = 'assets/svgs/tick.svg';
+  static const String add = 'assets/svgs/add.svg';
+  static const String walter = 'assets/svgs/walter.png';
+  static const String fring = 'assets/svgs/fring.png';
+  static const String marie = 'assets/svgs/marie.png';
+  static const String homeground = 'assets/svgs/home_sale.svg';
+  static const String errorMessage = 'assets/svgs/errorMessage.png';
+  static const String successMessage = 'assets/svgs/successMessage.png';
+  static const String closeOutlined = 'assets/svgs/home_sale.svg';
+}
